@@ -1,0 +1,147 @@
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: LASER.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (22.44, 2.92, 0.00)
+          Vertex   1 (0.36, 0.04, 0.00)
+          Vertex   2 (22.44, -2.47, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (-0.07, 0.95)
+          TexCoord for vertex   1 (0.54, -0.04)
+          TexCoord for vertex   2 (1.07, 0.95)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 1 faces
+            Face   0: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: LASER.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (22.44, 2.92, 0.00)
+          Vertex   1 (0.36, 0.04, 0.00)
+          Vertex   2 (22.44, -2.47, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (-0.07, 0.95)
+          TexCoord for vertex   1 (0.54, -0.04)
+          TexCoord for vertex   2 (1.07, 0.95)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 1 faces
+            Face   0: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: LASER.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (22.44, 2.92, 0.00)
+          Vertex   1 (0.36, 0.04, 0.00)
+          Vertex   2 (22.44, -2.47, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (-0.07, 0.95)
+          TexCoord for vertex   1 (0.54, -0.04)
+          TexCoord for vertex   2 (1.07, 0.95)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 1 faces
+            Face   0: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...

@@ -1,0 +1,297 @@
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: SPLOT.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0xAFFF : new material
+      0xA000 : Name: Material #2
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: FLARE1.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (4.49, 4.49, 0.00)
+          Vertex   1 (-4.49, 4.49, 0.00)
+          Vertex   2 (-4.49, -4.49, 0.00)
+          Vertex   3 (4.49, -4.49, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (1.00, 1.00)
+          TexCoord for vertex   1 (0.00, 1.00)
+          TexCoord for vertex   2 (0.00, 0.00)
+          TexCoord for vertex   3 (1.00, 0.00)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 2 faces
+            Face   0: [2; 3; 0]
+            Face   1: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (4.49, 4.49, 0.00)
+          Vertex   1 (-4.49, 4.49, 0.00)
+          Vertex   2 (-4.49, -4.49, 0.00)
+          Vertex   3 (4.49, -4.49, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.99, 0.99)
+          TexCoord for vertex   1 (-0.01, 0.99)
+          TexCoord for vertex   2 (-0.01, 0.06)
+          TexCoord for vertex   3 (0.99, 0.06)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 2 faces
+            Face   0: [2; 3; 0]
+            Face   1: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #2 assigned to face 0
+            Material #2 assigned to face 1
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: SPLOT.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0xAFFF : new material
+      0xA000 : Name: Material #2
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: FLARE1.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (4.49, 4.49, 0.00)
+          Vertex   1 (-4.49, 4.49, 0.00)
+          Vertex   2 (-4.49, -4.49, 0.00)
+          Vertex   3 (4.49, -4.49, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (1.00, 1.00)
+          TexCoord for vertex   1 (0.00, 1.00)
+          TexCoord for vertex   2 (0.00, 0.00)
+          TexCoord for vertex   3 (1.00, 0.00)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 2 faces
+            Face   0: [2; 3; 0]
+            Face   1: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (4.49, 4.49, 0.00)
+          Vertex   1 (-4.49, 4.49, 0.00)
+          Vertex   2 (-4.49, -4.49, 0.00)
+          Vertex   3 (4.49, -4.49, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.99, 0.99)
+          TexCoord for vertex   1 (-0.01, 0.99)
+          TexCoord for vertex   2 (-0.01, 0.06)
+          TexCoord for vertex   3 (0.99, 0.06)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 2 faces
+            Face   0: [2; 3; 0]
+            Face   1: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #2 assigned to face 0
+            Material #2 assigned to face 1
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: SPLOT.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0xAFFF : new material
+      0xA000 : Name: Material #2
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: FLARE1.BMP
+        0xA351 : skip
+        0xA353 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (4.49, 4.49, 0.00)
+          Vertex   1 (-4.49, 4.49, 0.00)
+          Vertex   2 (-4.49, -4.49, 0.00)
+          Vertex   3 (4.49, -4.49, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (1.00, 1.00)
+          TexCoord for vertex   1 (0.00, 1.00)
+          TexCoord for vertex   2 (0.00, 0.00)
+          TexCoord for vertex   3 (1.00, 0.00)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 2 faces
+            Face   0: [2; 3; 0]
+            Face   1: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (4.49, 4.49, 0.00)
+          Vertex   1 (-4.49, 4.49, 0.00)
+          Vertex   2 (-4.49, -4.49, 0.00)
+          Vertex   3 (4.49, -4.49, 0.00)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.99, 0.99)
+          TexCoord for vertex   1 (-0.01, 0.99)
+          TexCoord for vertex   2 (-0.01, 0.06)
+          TexCoord for vertex   3 (0.99, 0.06)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 2 faces
+            Face   0: [2; 3; 0]
+            Face   1: [1; 2; 0]
+          0x4130 : Assign materials
+            Material #2 assigned to face 0
+            Material #2 assigned to face 1
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...

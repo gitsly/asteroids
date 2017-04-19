@@ -1,0 +1,1023 @@
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: ROCK1.BMP
+        0xA351 : skip
+        0xA353 : skip
+        0xA354 : skip
+        0xA356 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (-0.46, 2.18, 5.01)
+          Vertex   1 (-2.09, -2.01, 3.27)
+          Vertex   2 (-0.61, 3.44, 4.67)
+          Vertex   3 (-0.77, 3.86, 4.04)
+          Vertex   4 (-1.30, 3.71, 4.36)
+          Vertex   5 (-2.03, 3.35, 4.30)
+          Vertex   6 (3.66, -1.69, 4.39)
+          Vertex   7 (-2.13, 3.63, 3.82)
+          Vertex   8 (-2.99, 2.95, 3.48)
+          Vertex   9 (-0.98, -4.13, 1.13)
+          Vertex  10 (4.25, 0.78, 3.08)
+          Vertex  11 (0.24, 4.37, 1.05)
+          Vertex  12 (-3.98, -1.68, -0.26)
+          Vertex  13 (3.43, -2.82, -1.32)
+          Vertex  14 (-1.81, -3.68, -2.57)
+          Vertex  15 (3.81, -0.44, -2.94)
+          Vertex  16 (-1.54, 2.81, -2.08)
+          Vertex  17 (0.45, -3.23, -3.14)
+          Vertex  18 (-0.97, 0.20, -3.63)
+          Vertex  19 (0.55, -0.96, -4.04)
+          Vertex  20 (0.68, 0.36, -3.91)
+          Vertex  21 (3.66, -1.69, 4.39)
+          Vertex  22 (0.24, 4.37, 1.05)
+          Vertex  23 (4.25, 0.78, 3.08)
+          Vertex  24 (0.68, 0.36, -3.91)
+          Vertex  25 (3.66, -1.69, 4.39)
+          Vertex  26 (3.66, -1.69, 4.39)
+          Vertex  27 (4.25, 0.78, 3.08)
+          Vertex  28 (3.66, -1.69, 4.39)
+          Vertex  29 (0.24, 4.37, 1.05)
+          Vertex  30 (0.68, 0.36, -3.91)
+          Vertex  31 (0.68, 0.36, -3.91)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.04, 0.86)
+          TexCoord for vertex   1 (0.37, 0.73)
+          TexCoord for vertex   2 (0.04, 0.78)
+          TexCoord for vertex   3 (0.04, 0.74)
+          TexCoord for vertex   4 (0.06, 0.75)
+          TexCoord for vertex   5 (0.09, 0.75)
+          TexCoord for vertex   6 (-0.33, 0.75)
+          TexCoord for vertex   7 (0.09, 0.71)
+          TexCoord for vertex   8 (0.13, 0.70)
+          TexCoord for vertex   9 (0.46, 0.55)
+          TexCoord for vertex  10 (-0.22, 0.68)
+          TexCoord for vertex  11 (-0.00, 0.54)
+          TexCoord for vertex  12 (0.32, 0.45)
+          TexCoord for vertex  13 (0.63, 0.38)
+          TexCoord for vertex  14 (0.42, 0.30)
+          TexCoord for vertex  15 (0.73, 0.26)
+          TexCoord for vertex  16 (0.09, 0.28)
+          TexCoord for vertex  17 (0.51, 0.24)
+          TexCoord for vertex  18 (0.24, 0.08)
+          TexCoord for vertex  19 (0.56, 0.08)
+          TexCoord for vertex  20 (0.82, 0.04)
+          TexCoord for vertex  21 (0.67, 0.75)
+          TexCoord for vertex  22 (1.00, 0.54)
+          TexCoord for vertex  23 (0.78, 0.68)
+          TexCoord for vertex  24 (-0.18, 0.04)
+          TexCoord for vertex  25 (0.67, 0.75)
+          TexCoord for vertex  26 (0.67, 0.75)
+          TexCoord for vertex  27 (0.78, 0.68)
+          TexCoord for vertex  28 (0.67, 0.75)
+          TexCoord for vertex  29 (1.00, 0.54)
+          TexCoord for vertex  30 (-0.18, 0.04)
+          TexCoord for vertex  31 (-0.18, 0.04)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 38 faces
+            Face   0: [1; 6; 0]
+            Face   1: [6; 10; 2]
+            Face   2: [1; 8; 12]
+            Face   3: [12; 14; 9]
+            Face   4: [18; 19; 14]
+            Face   5: [0; 5; 8]
+            Face   6: [1; 9; 21]
+            Face   7: [0; 6; 2]
+            Face   8: [2; 10; 3]
+            Face   9: [4; 11; 7]
+            Face  10: [9; 17; 13]
+            Face  11: [22; 23; 15]
+            Face  12: [13; 17; 15]
+            Face  13: [17; 19; 15]
+            Face  14: [12; 16; 18]
+            Face  15: [15; 19; 20]
+            Face  16: [16; 24; 18]
+            Face  17: [0; 2; 5]
+            Face  18: [0; 8; 1]
+            Face  19: [2; 3; 4]
+            Face  20: [2; 4; 5]
+            Face  21: [3; 10; 11]
+            Face  22: [4; 3; 11]
+            Face  23: [4; 7; 5]
+            Face  24: [8; 5; 7]
+            Face  25: [9; 13; 25]
+            Face  26: [1; 12; 9]
+            Face  27: [7; 11; 16]
+            Face  28: [8; 7; 16]
+            Face  29: [26; 13; 15]
+            Face  30: [27; 28; 15]
+            Face  31: [12; 8; 16]
+            Face  32: [9; 14; 17]
+            Face  33: [29; 15; 20]
+            Face  34: [16; 11; 30]
+            Face  35: [17; 14; 19]
+            Face  36: [14; 12; 18]
+            Face  37: [19; 18; 31]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+            Material #1 assigned to face 12
+            Material #1 assigned to face 13
+            Material #1 assigned to face 14
+            Material #1 assigned to face 15
+            Material #1 assigned to face 16
+            Material #1 assigned to face 17
+            Material #1 assigned to face 18
+            Material #1 assigned to face 19
+            Material #1 assigned to face 20
+            Material #1 assigned to face 21
+            Material #1 assigned to face 22
+            Material #1 assigned to face 23
+            Material #1 assigned to face 24
+            Material #1 assigned to face 25
+            Material #1 assigned to face 26
+            Material #1 assigned to face 27
+            Material #1 assigned to face 28
+            Material #1 assigned to face 29
+            Material #1 assigned to face 30
+            Material #1 assigned to face 31
+            Material #1 assigned to face 32
+            Material #1 assigned to face 33
+            Material #1 assigned to face 34
+            Material #1 assigned to face 35
+            Material #1 assigned to face 36
+            Material #1 assigned to face 37
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (-2.09, -2.00, 3.26)
+          Vertex   1 (-2.03, 3.34, 4.29)
+          Vertex   2 (3.65, -1.69, 4.38)
+          Vertex   3 (-3.44, 2.37, 3.07)
+          Vertex   4 (4.24, 0.78, 3.08)
+          Vertex   5 (-3.65, -2.22, -1.08)
+          Vertex   6 (2.22, 3.75, 0.43)
+          Vertex   7 (-1.81, -3.68, -2.56)
+          Vertex   8 (4.12, -0.75, -2.56)
+          Vertex   9 (-1.81, 1.80, -2.60)
+          Vertex  10 (0.68, 0.36, -3.90)
+          Vertex  11 (3.65, -1.69, 4.38)
+          Vertex  12 (0.68, 0.36, -3.90)
+          Vertex  13 (2.22, 3.75, 0.43)
+          Vertex  14 (0.68, 0.36, -3.90)
+          Vertex  15 (3.65, -1.69, 4.38)
+          Vertex  16 (4.24, 0.78, 3.08)
+          Vertex  17 (3.65, -1.69, 4.38)
+          Vertex  18 (4.24, 0.78, 3.08)
+          Vertex  19 (2.22, 3.75, 0.43)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.36, 0.74)
+          TexCoord for vertex   1 (0.10, 0.75)
+          TexCoord for vertex   2 (-0.33, 0.76)
+          TexCoord for vertex   3 (0.16, 0.68)
+          TexCoord for vertex   4 (-0.22, 0.70)
+          TexCoord for vertex   5 (0.33, 0.41)
+          TexCoord for vertex   6 (-0.08, 0.51)
+          TexCoord for vertex   7 (0.42, 0.32)
+          TexCoord for vertex   8 (0.72, 0.30)
+          TexCoord for vertex   9 (0.14, 0.24)
+          TexCoord for vertex  10 (-0.14, 0.04)
+          TexCoord for vertex  11 (0.67, 0.76)
+          TexCoord for vertex  12 (0.86, 0.04)
+          TexCoord for vertex  13 (0.92, 0.51)
+          TexCoord for vertex  14 (0.86, 0.04)
+          TexCoord for vertex  15 (0.67, 0.76)
+          TexCoord for vertex  16 (0.78, 0.70)
+          TexCoord for vertex  17 (0.67, 0.76)
+          TexCoord for vertex  18 (0.78, 0.70)
+          TexCoord for vertex  19 (0.92, 0.51)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 18 faces
+            Face   0: [3; 5; 0]
+            Face   1: [3; 9; 5]
+            Face   2: [9; 10; 5]
+            Face   3: [2; 4; 1]
+            Face   4: [2; 1; 3]
+            Face   5: [0; 7; 11]
+            Face   6: [1; 4; 6]
+            Face   7: [8; 7; 12]
+            Face   8: [7; 5; 10]
+            Face   9: [13; 8; 14]
+            Face  10: [2; 3; 0]
+            Face  11: [7; 8; 15]
+            Face  12: [0; 5; 7]
+            Face  13: [1; 6; 9]
+            Face  14: [3; 1; 9]
+            Face  15: [16; 17; 8]
+            Face  16: [18; 8; 19]
+            Face  17: [9; 6; 10]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+            Material #1 assigned to face 12
+            Material #1 assigned to face 13
+            Material #1 assigned to face 14
+            Material #1 assigned to face 15
+            Material #1 assigned to face 16
+            Material #1 assigned to face 17
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (2.44, 1.88, -2.87)
+          Vertex   1 (4.42, 1.58, 2.29)
+          Vertex   2 (2.03, -2.26, -4.10)
+          Vertex   3 (3.30, -0.76, 3.06)
+          Vertex   4 (0.51, -3.56, 1.61)
+          Vertex   5 (-2.94, 3.46, -1.66)
+          Vertex   6 (-1.97, 0.69, 3.87)
+          Vertex   7 (-3.78, -0.36, 0.89)
+          Vertex   8 (4.42, 1.58, 2.29)
+          Vertex   9 (-3.78, -0.36, 0.89)
+          Vertex  10 (0.51, -3.56, 1.61)
+          Vertex  11 (-3.78, -0.36, 0.89)
+          Vertex  12 (4.42, 1.58, 2.29)
+          Vertex  13 (3.30, -0.76, 3.06)
+          Vertex  14 (4.42, 1.58, 2.29)
+          Vertex  15 (3.30, -0.76, 3.06)
+          Vertex  16 (0.51, -3.56, 1.61)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.36, 0.74)
+          TexCoord for vertex   1 (-0.33, 0.77)
+          TexCoord for vertex   2 (0.16, 0.68)
+          TexCoord for vertex   3 (-0.22, 0.70)
+          TexCoord for vertex   4 (-0.07, 0.51)
+          TexCoord for vertex   5 (0.41, 0.32)
+          TexCoord for vertex   6 (0.72, 0.30)
+          TexCoord for vertex   7 (-0.11, 0.03)
+          TexCoord for vertex   8 (0.67, 0.77)
+          TexCoord for vertex   9 (0.89, 0.03)
+          TexCoord for vertex  10 (0.93, 0.51)
+          TexCoord for vertex  11 (0.89, 0.03)
+          TexCoord for vertex  12 (0.67, 0.77)
+          TexCoord for vertex  13 (0.78, 0.70)
+          TexCoord for vertex  14 (0.67, 0.77)
+          TexCoord for vertex  15 (0.78, 0.70)
+          TexCoord for vertex  16 (0.93, 0.51)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 12 faces
+            Face   0: [2; 5; 0]
+            Face   1: [2; 7; 5]
+            Face   2: [1; 3; 2]
+            Face   3: [0; 5; 8]
+            Face   4: [2; 3; 4]
+            Face   5: [6; 5; 9]
+            Face   6: [10; 6; 11]
+            Face   7: [1; 2; 0]
+            Face   8: [5; 6; 12]
+            Face   9: [2; 4; 7]
+            Face  10: [13; 14; 6]
+            Face  11: [15; 6; 16]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: ROCK1.BMP
+        0xA351 : skip
+        0xA353 : skip
+        0xA354 : skip
+        0xA356 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (-0.46, 2.18, 5.01)
+          Vertex   1 (-2.09, -2.01, 3.27)
+          Vertex   2 (-0.61, 3.44, 4.67)
+          Vertex   3 (-0.77, 3.86, 4.04)
+          Vertex   4 (-1.30, 3.71, 4.36)
+          Vertex   5 (-2.03, 3.35, 4.30)
+          Vertex   6 (3.66, -1.69, 4.39)
+          Vertex   7 (-2.13, 3.63, 3.82)
+          Vertex   8 (-2.99, 2.95, 3.48)
+          Vertex   9 (-0.98, -4.13, 1.13)
+          Vertex  10 (4.25, 0.78, 3.08)
+          Vertex  11 (0.24, 4.37, 1.05)
+          Vertex  12 (-3.98, -1.68, -0.26)
+          Vertex  13 (3.43, -2.82, -1.32)
+          Vertex  14 (-1.81, -3.68, -2.57)
+          Vertex  15 (3.81, -0.44, -2.94)
+          Vertex  16 (-1.54, 2.81, -2.08)
+          Vertex  17 (0.45, -3.23, -3.14)
+          Vertex  18 (-0.97, 0.20, -3.63)
+          Vertex  19 (0.55, -0.96, -4.04)
+          Vertex  20 (0.68, 0.36, -3.91)
+          Vertex  21 (3.66, -1.69, 4.39)
+          Vertex  22 (0.24, 4.37, 1.05)
+          Vertex  23 (4.25, 0.78, 3.08)
+          Vertex  24 (0.68, 0.36, -3.91)
+          Vertex  25 (3.66, -1.69, 4.39)
+          Vertex  26 (3.66, -1.69, 4.39)
+          Vertex  27 (4.25, 0.78, 3.08)
+          Vertex  28 (3.66, -1.69, 4.39)
+          Vertex  29 (0.24, 4.37, 1.05)
+          Vertex  30 (0.68, 0.36, -3.91)
+          Vertex  31 (0.68, 0.36, -3.91)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.04, 0.86)
+          TexCoord for vertex   1 (0.37, 0.73)
+          TexCoord for vertex   2 (0.04, 0.78)
+          TexCoord for vertex   3 (0.04, 0.74)
+          TexCoord for vertex   4 (0.06, 0.75)
+          TexCoord for vertex   5 (0.09, 0.75)
+          TexCoord for vertex   6 (-0.33, 0.75)
+          TexCoord for vertex   7 (0.09, 0.71)
+          TexCoord for vertex   8 (0.13, 0.70)
+          TexCoord for vertex   9 (0.46, 0.55)
+          TexCoord for vertex  10 (-0.22, 0.68)
+          TexCoord for vertex  11 (-0.00, 0.54)
+          TexCoord for vertex  12 (0.32, 0.45)
+          TexCoord for vertex  13 (0.63, 0.38)
+          TexCoord for vertex  14 (0.42, 0.30)
+          TexCoord for vertex  15 (0.73, 0.26)
+          TexCoord for vertex  16 (0.09, 0.28)
+          TexCoord for vertex  17 (0.51, 0.24)
+          TexCoord for vertex  18 (0.24, 0.08)
+          TexCoord for vertex  19 (0.56, 0.08)
+          TexCoord for vertex  20 (0.82, 0.04)
+          TexCoord for vertex  21 (0.67, 0.75)
+          TexCoord for vertex  22 (1.00, 0.54)
+          TexCoord for vertex  23 (0.78, 0.68)
+          TexCoord for vertex  24 (-0.18, 0.04)
+          TexCoord for vertex  25 (0.67, 0.75)
+          TexCoord for vertex  26 (0.67, 0.75)
+          TexCoord for vertex  27 (0.78, 0.68)
+          TexCoord for vertex  28 (0.67, 0.75)
+          TexCoord for vertex  29 (1.00, 0.54)
+          TexCoord for vertex  30 (-0.18, 0.04)
+          TexCoord for vertex  31 (-0.18, 0.04)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 38 faces
+            Face   0: [1; 6; 0]
+            Face   1: [6; 10; 2]
+            Face   2: [1; 8; 12]
+            Face   3: [12; 14; 9]
+            Face   4: [18; 19; 14]
+            Face   5: [0; 5; 8]
+            Face   6: [1; 9; 21]
+            Face   7: [0; 6; 2]
+            Face   8: [2; 10; 3]
+            Face   9: [4; 11; 7]
+            Face  10: [9; 17; 13]
+            Face  11: [22; 23; 15]
+            Face  12: [13; 17; 15]
+            Face  13: [17; 19; 15]
+            Face  14: [12; 16; 18]
+            Face  15: [15; 19; 20]
+            Face  16: [16; 24; 18]
+            Face  17: [0; 2; 5]
+            Face  18: [0; 8; 1]
+            Face  19: [2; 3; 4]
+            Face  20: [2; 4; 5]
+            Face  21: [3; 10; 11]
+            Face  22: [4; 3; 11]
+            Face  23: [4; 7; 5]
+            Face  24: [8; 5; 7]
+            Face  25: [9; 13; 25]
+            Face  26: [1; 12; 9]
+            Face  27: [7; 11; 16]
+            Face  28: [8; 7; 16]
+            Face  29: [26; 13; 15]
+            Face  30: [27; 28; 15]
+            Face  31: [12; 8; 16]
+            Face  32: [9; 14; 17]
+            Face  33: [29; 15; 20]
+            Face  34: [16; 11; 30]
+            Face  35: [17; 14; 19]
+            Face  36: [14; 12; 18]
+            Face  37: [19; 18; 31]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+            Material #1 assigned to face 12
+            Material #1 assigned to face 13
+            Material #1 assigned to face 14
+            Material #1 assigned to face 15
+            Material #1 assigned to face 16
+            Material #1 assigned to face 17
+            Material #1 assigned to face 18
+            Material #1 assigned to face 19
+            Material #1 assigned to face 20
+            Material #1 assigned to face 21
+            Material #1 assigned to face 22
+            Material #1 assigned to face 23
+            Material #1 assigned to face 24
+            Material #1 assigned to face 25
+            Material #1 assigned to face 26
+            Material #1 assigned to face 27
+            Material #1 assigned to face 28
+            Material #1 assigned to face 29
+            Material #1 assigned to face 30
+            Material #1 assigned to face 31
+            Material #1 assigned to face 32
+            Material #1 assigned to face 33
+            Material #1 assigned to face 34
+            Material #1 assigned to face 35
+            Material #1 assigned to face 36
+            Material #1 assigned to face 37
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (-2.09, -2.00, 3.26)
+          Vertex   1 (-2.03, 3.34, 4.29)
+          Vertex   2 (3.65, -1.69, 4.38)
+          Vertex   3 (-3.44, 2.37, 3.07)
+          Vertex   4 (4.24, 0.78, 3.08)
+          Vertex   5 (-3.65, -2.22, -1.08)
+          Vertex   6 (2.22, 3.75, 0.43)
+          Vertex   7 (-1.81, -3.68, -2.56)
+          Vertex   8 (4.12, -0.75, -2.56)
+          Vertex   9 (-1.81, 1.80, -2.60)
+          Vertex  10 (0.68, 0.36, -3.90)
+          Vertex  11 (3.65, -1.69, 4.38)
+          Vertex  12 (0.68, 0.36, -3.90)
+          Vertex  13 (2.22, 3.75, 0.43)
+          Vertex  14 (0.68, 0.36, -3.90)
+          Vertex  15 (3.65, -1.69, 4.38)
+          Vertex  16 (4.24, 0.78, 3.08)
+          Vertex  17 (3.65, -1.69, 4.38)
+          Vertex  18 (4.24, 0.78, 3.08)
+          Vertex  19 (2.22, 3.75, 0.43)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.36, 0.74)
+          TexCoord for vertex   1 (0.10, 0.75)
+          TexCoord for vertex   2 (-0.33, 0.76)
+          TexCoord for vertex   3 (0.16, 0.68)
+          TexCoord for vertex   4 (-0.22, 0.70)
+          TexCoord for vertex   5 (0.33, 0.41)
+          TexCoord for vertex   6 (-0.08, 0.51)
+          TexCoord for vertex   7 (0.42, 0.32)
+          TexCoord for vertex   8 (0.72, 0.30)
+          TexCoord for vertex   9 (0.14, 0.24)
+          TexCoord for vertex  10 (-0.14, 0.04)
+          TexCoord for vertex  11 (0.67, 0.76)
+          TexCoord for vertex  12 (0.86, 0.04)
+          TexCoord for vertex  13 (0.92, 0.51)
+          TexCoord for vertex  14 (0.86, 0.04)
+          TexCoord for vertex  15 (0.67, 0.76)
+          TexCoord for vertex  16 (0.78, 0.70)
+          TexCoord for vertex  17 (0.67, 0.76)
+          TexCoord for vertex  18 (0.78, 0.70)
+          TexCoord for vertex  19 (0.92, 0.51)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 18 faces
+            Face   0: [3; 5; 0]
+            Face   1: [3; 9; 5]
+            Face   2: [9; 10; 5]
+            Face   3: [2; 4; 1]
+            Face   4: [2; 1; 3]
+            Face   5: [0; 7; 11]
+            Face   6: [1; 4; 6]
+            Face   7: [8; 7; 12]
+            Face   8: [7; 5; 10]
+            Face   9: [13; 8; 14]
+            Face  10: [2; 3; 0]
+            Face  11: [7; 8; 15]
+            Face  12: [0; 5; 7]
+            Face  13: [1; 6; 9]
+            Face  14: [3; 1; 9]
+            Face  15: [16; 17; 8]
+            Face  16: [18; 8; 19]
+            Face  17: [9; 6; 10]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+            Material #1 assigned to face 12
+            Material #1 assigned to face 13
+            Material #1 assigned to face 14
+            Material #1 assigned to face 15
+            Material #1 assigned to face 16
+            Material #1 assigned to face 17
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (2.44, 1.88, -2.87)
+          Vertex   1 (4.42, 1.58, 2.29)
+          Vertex   2 (2.03, -2.26, -4.10)
+          Vertex   3 (3.30, -0.76, 3.06)
+          Vertex   4 (0.51, -3.56, 1.61)
+          Vertex   5 (-2.94, 3.46, -1.66)
+          Vertex   6 (-1.97, 0.69, 3.87)
+          Vertex   7 (-3.78, -0.36, 0.89)
+          Vertex   8 (4.42, 1.58, 2.29)
+          Vertex   9 (-3.78, -0.36, 0.89)
+          Vertex  10 (0.51, -3.56, 1.61)
+          Vertex  11 (-3.78, -0.36, 0.89)
+          Vertex  12 (4.42, 1.58, 2.29)
+          Vertex  13 (3.30, -0.76, 3.06)
+          Vertex  14 (4.42, 1.58, 2.29)
+          Vertex  15 (3.30, -0.76, 3.06)
+          Vertex  16 (0.51, -3.56, 1.61)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.36, 0.74)
+          TexCoord for vertex   1 (-0.33, 0.77)
+          TexCoord for vertex   2 (0.16, 0.68)
+          TexCoord for vertex   3 (-0.22, 0.70)
+          TexCoord for vertex   4 (-0.07, 0.51)
+          TexCoord for vertex   5 (0.41, 0.32)
+          TexCoord for vertex   6 (0.72, 0.30)
+          TexCoord for vertex   7 (-0.11, 0.03)
+          TexCoord for vertex   8 (0.67, 0.77)
+          TexCoord for vertex   9 (0.89, 0.03)
+          TexCoord for vertex  10 (0.93, 0.51)
+          TexCoord for vertex  11 (0.89, 0.03)
+          TexCoord for vertex  12 (0.67, 0.77)
+          TexCoord for vertex  13 (0.78, 0.70)
+          TexCoord for vertex  14 (0.67, 0.77)
+          TexCoord for vertex  15 (0.78, 0.70)
+          TexCoord for vertex  16 (0.93, 0.51)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 12 faces
+            Face   0: [2; 5; 0]
+            Face   1: [2; 7; 5]
+            Face   2: [1; 3; 2]
+            Face   3: [0; 5; 8]
+            Face   4: [2; 3; 4]
+            Face   5: [6; 5; 9]
+            Face   6: [10; 6; 11]
+            Face   7: [1; 2; 0]
+            Face   8: [5; 6; 12]
+            Face   9: [2; 4; 7]
+            Face  10: [13; 14; 6]
+            Face  11: [15; 6; 16]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...
+0x4D4D : 
+  0x0002 : skip
+  0x3D3D : 
+    0x3D3E : skip
+    0xAFFF : new material
+      0xA000 : Name: Material #1
+      0xA010 : skip
+      0xA020 : skip
+      0xA030 : skip
+      0xA040 : skip
+      0xA041 : skip
+      0xA050 : skip
+      0xA052 : skip
+      0xA053 : skip
+      0xA100 : skip
+      0xA084 : skip
+      0xA08A : skip
+      0xA08C : skip
+      0xA087 : skip
+      0xA200 : Texture map 1
+        0x0030 : skip
+        0xA300 : mapping file: ROCK1.BMP
+        0xA351 : skip
+        0xA353 : skip
+        0xA354 : skip
+        0xA356 : skip
+      Map done
+    Material done
+    0x0100 : skip
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (-0.46, 2.18, 5.01)
+          Vertex   1 (-2.09, -2.01, 3.27)
+          Vertex   2 (-0.61, 3.44, 4.67)
+          Vertex   3 (-0.77, 3.86, 4.04)
+          Vertex   4 (-1.30, 3.71, 4.36)
+          Vertex   5 (-2.03, 3.35, 4.30)
+          Vertex   6 (3.66, -1.69, 4.39)
+          Vertex   7 (-2.13, 3.63, 3.82)
+          Vertex   8 (-2.99, 2.95, 3.48)
+          Vertex   9 (-0.98, -4.13, 1.13)
+          Vertex  10 (4.25, 0.78, 3.08)
+          Vertex  11 (0.24, 4.37, 1.05)
+          Vertex  12 (-3.98, -1.68, -0.26)
+          Vertex  13 (3.43, -2.82, -1.32)
+          Vertex  14 (-1.81, -3.68, -2.57)
+          Vertex  15 (3.81, -0.44, -2.94)
+          Vertex  16 (-1.54, 2.81, -2.08)
+          Vertex  17 (0.45, -3.23, -3.14)
+          Vertex  18 (-0.97, 0.20, -3.63)
+          Vertex  19 (0.55, -0.96, -4.04)
+          Vertex  20 (0.68, 0.36, -3.91)
+          Vertex  21 (3.66, -1.69, 4.39)
+          Vertex  22 (0.24, 4.37, 1.05)
+          Vertex  23 (4.25, 0.78, 3.08)
+          Vertex  24 (0.68, 0.36, -3.91)
+          Vertex  25 (3.66, -1.69, 4.39)
+          Vertex  26 (3.66, -1.69, 4.39)
+          Vertex  27 (4.25, 0.78, 3.08)
+          Vertex  28 (3.66, -1.69, 4.39)
+          Vertex  29 (0.24, 4.37, 1.05)
+          Vertex  30 (0.68, 0.36, -3.91)
+          Vertex  31 (0.68, 0.36, -3.91)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.04, 0.86)
+          TexCoord for vertex   1 (0.37, 0.73)
+          TexCoord for vertex   2 (0.04, 0.78)
+          TexCoord for vertex   3 (0.04, 0.74)
+          TexCoord for vertex   4 (0.06, 0.75)
+          TexCoord for vertex   5 (0.09, 0.75)
+          TexCoord for vertex   6 (-0.33, 0.75)
+          TexCoord for vertex   7 (0.09, 0.71)
+          TexCoord for vertex   8 (0.13, 0.70)
+          TexCoord for vertex   9 (0.46, 0.55)
+          TexCoord for vertex  10 (-0.22, 0.68)
+          TexCoord for vertex  11 (-0.00, 0.54)
+          TexCoord for vertex  12 (0.32, 0.45)
+          TexCoord for vertex  13 (0.63, 0.38)
+          TexCoord for vertex  14 (0.42, 0.30)
+          TexCoord for vertex  15 (0.73, 0.26)
+          TexCoord for vertex  16 (0.09, 0.28)
+          TexCoord for vertex  17 (0.51, 0.24)
+          TexCoord for vertex  18 (0.24, 0.08)
+          TexCoord for vertex  19 (0.56, 0.08)
+          TexCoord for vertex  20 (0.82, 0.04)
+          TexCoord for vertex  21 (0.67, 0.75)
+          TexCoord for vertex  22 (1.00, 0.54)
+          TexCoord for vertex  23 (0.78, 0.68)
+          TexCoord for vertex  24 (-0.18, 0.04)
+          TexCoord for vertex  25 (0.67, 0.75)
+          TexCoord for vertex  26 (0.67, 0.75)
+          TexCoord for vertex  27 (0.78, 0.68)
+          TexCoord for vertex  28 (0.67, 0.75)
+          TexCoord for vertex  29 (1.00, 0.54)
+          TexCoord for vertex  30 (-0.18, 0.04)
+          TexCoord for vertex  31 (-0.18, 0.04)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 38 faces
+            Face   0: [1; 6; 0]
+            Face   1: [6; 10; 2]
+            Face   2: [1; 8; 12]
+            Face   3: [12; 14; 9]
+            Face   4: [18; 19; 14]
+            Face   5: [0; 5; 8]
+            Face   6: [1; 9; 21]
+            Face   7: [0; 6; 2]
+            Face   8: [2; 10; 3]
+            Face   9: [4; 11; 7]
+            Face  10: [9; 17; 13]
+            Face  11: [22; 23; 15]
+            Face  12: [13; 17; 15]
+            Face  13: [17; 19; 15]
+            Face  14: [12; 16; 18]
+            Face  15: [15; 19; 20]
+            Face  16: [16; 24; 18]
+            Face  17: [0; 2; 5]
+            Face  18: [0; 8; 1]
+            Face  19: [2; 3; 4]
+            Face  20: [2; 4; 5]
+            Face  21: [3; 10; 11]
+            Face  22: [4; 3; 11]
+            Face  23: [4; 7; 5]
+            Face  24: [8; 5; 7]
+            Face  25: [9; 13; 25]
+            Face  26: [1; 12; 9]
+            Face  27: [7; 11; 16]
+            Face  28: [8; 7; 16]
+            Face  29: [26; 13; 15]
+            Face  30: [27; 28; 15]
+            Face  31: [12; 8; 16]
+            Face  32: [9; 14; 17]
+            Face  33: [29; 15; 20]
+            Face  34: [16; 11; 30]
+            Face  35: [17; 14; 19]
+            Face  36: [14; 12; 18]
+            Face  37: [19; 18; 31]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+            Material #1 assigned to face 12
+            Material #1 assigned to face 13
+            Material #1 assigned to face 14
+            Material #1 assigned to face 15
+            Material #1 assigned to face 16
+            Material #1 assigned to face 17
+            Material #1 assigned to face 18
+            Material #1 assigned to face 19
+            Material #1 assigned to face 20
+            Material #1 assigned to face 21
+            Material #1 assigned to face 22
+            Material #1 assigned to face 23
+            Material #1 assigned to face 24
+            Material #1 assigned to face 25
+            Material #1 assigned to face 26
+            Material #1 assigned to face 27
+            Material #1 assigned to face 28
+            Material #1 assigned to face 29
+            Material #1 assigned to face 30
+            Material #1 assigned to face 31
+            Material #1 assigned to face 32
+            Material #1 assigned to face 33
+            Material #1 assigned to face 34
+            Material #1 assigned to face 35
+            Material #1 assigned to face 36
+            Material #1 assigned to face 37
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (-2.09, -2.00, 3.26)
+          Vertex   1 (-2.03, 3.34, 4.29)
+          Vertex   2 (3.65, -1.69, 4.38)
+          Vertex   3 (-3.44, 2.37, 3.07)
+          Vertex   4 (4.24, 0.78, 3.08)
+          Vertex   5 (-3.65, -2.22, -1.08)
+          Vertex   6 (2.22, 3.75, 0.43)
+          Vertex   7 (-1.81, -3.68, -2.56)
+          Vertex   8 (4.12, -0.75, -2.56)
+          Vertex   9 (-1.81, 1.80, -2.60)
+          Vertex  10 (0.68, 0.36, -3.90)
+          Vertex  11 (3.65, -1.69, 4.38)
+          Vertex  12 (0.68, 0.36, -3.90)
+          Vertex  13 (2.22, 3.75, 0.43)
+          Vertex  14 (0.68, 0.36, -3.90)
+          Vertex  15 (3.65, -1.69, 4.38)
+          Vertex  16 (4.24, 0.78, 3.08)
+          Vertex  17 (3.65, -1.69, 4.38)
+          Vertex  18 (4.24, 0.78, 3.08)
+          Vertex  19 (2.22, 3.75, 0.43)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.36, 0.74)
+          TexCoord for vertex   1 (0.10, 0.75)
+          TexCoord for vertex   2 (-0.33, 0.76)
+          TexCoord for vertex   3 (0.16, 0.68)
+          TexCoord for vertex   4 (-0.22, 0.70)
+          TexCoord for vertex   5 (0.33, 0.41)
+          TexCoord for vertex   6 (-0.08, 0.51)
+          TexCoord for vertex   7 (0.42, 0.32)
+          TexCoord for vertex   8 (0.72, 0.30)
+          TexCoord for vertex   9 (0.14, 0.24)
+          TexCoord for vertex  10 (-0.14, 0.04)
+          TexCoord for vertex  11 (0.67, 0.76)
+          TexCoord for vertex  12 (0.86, 0.04)
+          TexCoord for vertex  13 (0.92, 0.51)
+          TexCoord for vertex  14 (0.86, 0.04)
+          TexCoord for vertex  15 (0.67, 0.76)
+          TexCoord for vertex  16 (0.78, 0.70)
+          TexCoord for vertex  17 (0.67, 0.76)
+          TexCoord for vertex  18 (0.78, 0.70)
+          TexCoord for vertex  19 (0.92, 0.51)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 18 faces
+            Face   0: [3; 5; 0]
+            Face   1: [3; 9; 5]
+            Face   2: [9; 10; 5]
+            Face   3: [2; 4; 1]
+            Face   4: [2; 1; 3]
+            Face   5: [0; 7; 11]
+            Face   6: [1; 4; 6]
+            Face   7: [8; 7; 12]
+            Face   8: [7; 5; 10]
+            Face   9: [13; 8; 14]
+            Face  10: [2; 3; 0]
+            Face  11: [7; 8; 15]
+            Face  12: [0; 5; 7]
+            Face  13: [1; 6; 9]
+            Face  14: [3; 1; 9]
+            Face  15: [16; 17; 8]
+            Face  16: [18; 8; 19]
+            Face  17: [9; 6; 10]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+            Material #1 assigned to face 12
+            Material #1 assigned to face 13
+            Material #1 assigned to face 14
+            Material #1 assigned to face 15
+            Material #1 assigned to face 16
+            Material #1 assigned to face 17
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+    0x4000 : new object
+      0x4100 : Triangular mesh
+        0x4110 : Reading vertices
+          Vertex   0 (2.44, 1.88, -2.87)
+          Vertex   1 (4.42, 1.58, 2.29)
+          Vertex   2 (2.03, -2.26, -4.10)
+          Vertex   3 (3.30, -0.76, 3.06)
+          Vertex   4 (0.51, -3.56, 1.61)
+          Vertex   5 (-2.94, 3.46, -1.66)
+          Vertex   6 (-1.97, 0.69, 3.87)
+          Vertex   7 (-3.78, -0.36, 0.89)
+          Vertex   8 (4.42, 1.58, 2.29)
+          Vertex   9 (-3.78, -0.36, 0.89)
+          Vertex  10 (0.51, -3.56, 1.61)
+          Vertex  11 (-3.78, -0.36, 0.89)
+          Vertex  12 (4.42, 1.58, 2.29)
+          Vertex  13 (3.30, -0.76, 3.06)
+          Vertex  14 (4.42, 1.58, 2.29)
+          Vertex  15 (3.30, -0.76, 3.06)
+          Vertex  16 (0.51, -3.56, 1.61)
+        0x4140 : Reading mapping coords
+          TexCoord for vertex   0 (0.36, 0.74)
+          TexCoord for vertex   1 (-0.33, 0.77)
+          TexCoord for vertex   2 (0.16, 0.68)
+          TexCoord for vertex   3 (-0.22, 0.70)
+          TexCoord for vertex   4 (-0.07, 0.51)
+          TexCoord for vertex   5 (0.41, 0.32)
+          TexCoord for vertex   6 (0.72, 0.30)
+          TexCoord for vertex   7 (-0.11, 0.03)
+          TexCoord for vertex   8 (0.67, 0.77)
+          TexCoord for vertex   9 (0.89, 0.03)
+          TexCoord for vertex  10 (0.93, 0.51)
+          TexCoord for vertex  11 (0.89, 0.03)
+          TexCoord for vertex  12 (0.67, 0.77)
+          TexCoord for vertex  13 (0.78, 0.70)
+          TexCoord for vertex  14 (0.67, 0.77)
+          TexCoord for vertex  15 (0.78, 0.70)
+          TexCoord for vertex  16 (0.93, 0.51)
+        0x4160 : skip
+        0x4120 : Reading faces
+            found 12 faces
+            Face   0: [2; 5; 0]
+            Face   1: [2; 7; 5]
+            Face   2: [1; 3; 2]
+            Face   3: [0; 5; 8]
+            Face   4: [2; 3; 4]
+            Face   5: [6; 5; 9]
+            Face   6: [10; 6; 11]
+            Face   7: [1; 2; 0]
+            Face   8: [5; 6; 12]
+            Face   9: [2; 4; 7]
+            Face  10: [13; 14; 6]
+            Face  11: [15; 6; 16]
+          0x4130 : Assign materials
+            Material #1 assigned to face 0
+            Material #1 assigned to face 1
+            Material #1 assigned to face 2
+            Material #1 assigned to face 3
+            Material #1 assigned to face 4
+            Material #1 assigned to face 5
+            Material #1 assigned to face 6
+            Material #1 assigned to face 7
+            Material #1 assigned to face 8
+            Material #1 assigned to face 9
+            Material #1 assigned to face 10
+            Material #1 assigned to face 11
+          0x4150 : skip
+        Faces done
+      Mesh done
+    Object done
+  ...
+  0xB000 : Keyframer chunk...
